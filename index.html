@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividades Técnicas</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div id="menu-lateral">
+        <nav>
+            <ul>
+                <li id="menu-busca">
+                    <a href="#">Busca de Atividades</a>
+                </li>
+                <li id="menu-servicos-padrao">
+                    <a href="#">Serviços Padrão</a>
+                    <ul id="submenu-servicos">
+                        <li id="subpasta-edificacao">
+                            <a href="#">Nova edificação comercial/residencial</a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+    </div>
+
+    <div id="conteudo">
+        <header>
+            <h1>Atividades Técnicas</h1>
+        </header>
+
+        <!-- Logo no topo, antes da barra de pesquisa -->
+        <section id="logo-section">
+            <img src="/static/toposite.jpg" alt="Logo Tecna" id="logo-topo">
+        </section>
+
+        <section id="barra-pesquisa">
+            <form id="form-pesquisa">
+                <label for="pesquisa">Pesquisar por atividade:</label>
+                <input type="text" id="pesquisa" placeholder="Digite a atividade">
+                <button type="button" id="btn-pesquisar">Pesquisar</button>
+            </form>
+        </section>
+
+        <section id="resultados">
+            <h2>Resultados</h2>
+            <table id="tabela-resultados">
+                <thead>
+                    <tr>
+                        <th>Grupo</th>
+                        <th>Subgrupo</th>
+                        <th>Obra/Serviço</th>
+                        <th>Complemento</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Os resultados da pesquisa serão preenchidos aqui via JavaScript -->
+                </tbody>
+            </table>
+        </section>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>
