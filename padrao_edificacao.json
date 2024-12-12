@@ -1,0 +1,56 @@
+[
+    {
+        "GRUPO": "Construção Civil",
+        "SUBGRUPO": "Edificações",
+        "OBRA/SERVIÇO": "de edificação",
+        "COMPLEMENTO": "de alvenaria"
+    },
+    {
+        "GRUPO": "Estruturas",
+        "SUBGRUPO": "Fundações",
+        "OBRA/SERVIÇO": "de fundações profundas",
+        "COMPLEMENTO": "em estacas de concreto moldadas in loco"
+    },
+    {
+        "GRUPO": "Estruturas",
+        "SUBGRUPO": "Estruturas de Concreto e Argamassa armada",
+        "OBRA/SERVIÇO": "de estrutura de concreto armado",
+        "COMPLEMENTO": "N/A"
+    },
+    {
+        "GRUPO": "Eletrotécnica",
+        "SUBGRUPO": "Sistema de Proteção Contra Descargas Atmosféricas – SPDA",
+        "OBRA/SERVIÇO": "de sistema de proteção contra descargas atmosféricas – SPDA",
+        "COMPLEMENTO": "N/A"
+    },
+    {
+        "GRUPO": "Eletrotécnica",
+        "SUBGRUPO": "Instalações Elétricas",
+        "OBRA/SERVIÇO": "de instalações elétricas em baixa tensão",
+        "COMPLEMENTO": ""
+    },
+    {
+        "GRUPO": "Eletrotécnica",
+        "SUBGRUPO": "Instalações Elétricas",
+        "OBRA/SERVIÇO": "de tubulação para instalações elétricas em baixa tensão",
+        "COMPLEMENTO": ""
+    },
+    {
+        "GRUPO": "Construção Civil",
+        "SUBGRUPO": "Instalações Hidrossanitárias",
+        "OBRA/SERVIÇO": "de sistema de redes de águas pluviais",
+        "COMPLEMENTO": "N/A"
+    },
+    {
+        "GRUPO": "Construção Civil",
+        "SUBGRUPO": "Instalações Hidrossanitárias",
+        "OBRA/SERVIÇO": "de sistema de água potável",
+        "COMPLEMENTO": "N/A"
+    },
+    {
+        "GRUPO": "Telecomunicações",
+        "SUBGRUPO": "Instalações Telefônicas Internas",
+        "OBRA/SERVIÇO": "de instalações telefônicas internas",
+        "COMPLEMENTO": "N/A"
+    }
+]
